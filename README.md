@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-nwvsu&psig=AOvVaw0Lh_doP75etI2Z7NnA48Fi&ust=1714921960020000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjCzaOk9IUDFQAAAAAdAAAAABAE" height="40" alt="javascript logo"  />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-nwvsu&psig=AOvVaw0Lh_doP75etI2Z7NnA48Fi&ust=1714921960020000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjCzaOk9IUDFQAAAAAdAAAAABAK" height="40" alt="C++ logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
