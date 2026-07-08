@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning enthusiast from India</h3>
 
 - 📫 How to reach me **22je0934@iitism.ac.in**
-
+- Website: https://shubhamchauhan22222.github.io/
 - 📄 Know about my experiences []()
 
 <h3 align="left">Connect with me:</h3>
